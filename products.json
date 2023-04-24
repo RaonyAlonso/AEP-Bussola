@@ -1,0 +1,92 @@
+[
+  {
+    "_id": "6446e6ea076060685bdf84f4",
+    "name": "Caneta",
+    "quantity": 10,
+    "price": 7.99,
+    "createdAt": "2023-04-24T20:30:34.824Z",
+    "updatedAt": "2023-04-24T20:30:34.824Z",
+    "__v": 0
+  },
+  {
+    "_id": "6446e775076060685bdf84f9",
+    "name": "Caneta4",
+    "quantity": 10,
+    "price": 7.99,
+    "createdAt": "2023-04-24T20:32:53.526Z",
+    "updatedAt": "2023-04-24T20:32:53.526Z",
+    "__v": 0
+  },
+  {
+    "_id": "6446e775076060685bdf84f8",
+    "name": "Caneta3",
+    "quantity": 10,
+    "price": 7.99,
+    "createdAt": "2023-04-24T20:32:53.526Z",
+    "updatedAt": "2023-04-24T20:32:53.526Z",
+    "__v": 0
+  },
+  {
+    "_id": "6446e775076060685bdf84f7",
+    "name": "Caneta2",
+    "quantity": 10,
+    "price": 7.99,
+    "createdAt": "2023-04-24T20:32:53.525Z",
+    "updatedAt": "2023-04-24T20:32:53.525Z",
+    "__v": 0
+  },
+  {
+    "_id": "6446e775076060685bdf84fc",
+    "name": "Caneta7",
+    "quantity": 10,
+    "price": 7.99,
+    "createdAt": "2023-04-24T20:32:53.526Z",
+    "updatedAt": "2023-04-24T20:32:53.526Z",
+    "__v": 0
+  },
+  {
+    "_id": "6446e775076060685bdf84fe",
+    "name": "Caneta9",
+    "quantity": 10,
+    "price": 7.99,
+    "createdAt": "2023-04-24T20:32:53.526Z",
+    "updatedAt": "2023-04-24T20:32:53.526Z",
+    "__v": 0
+  },
+  {
+    "_id": "6446e775076060685bdf84fd",
+    "name": "Caneta8",
+    "quantity": 10,
+    "price": 7.99,
+    "createdAt": "2023-04-24T20:32:53.526Z",
+    "updatedAt": "2023-04-24T20:32:53.526Z",
+    "__v": 0
+  },
+  {
+    "_id": "6446e775076060685bdf84ff",
+    "name": "Caneta10",
+    "quantity": 10,
+    "price": 7.99,
+    "createdAt": "2023-04-24T20:32:53.526Z",
+    "updatedAt": "2023-04-24T20:32:53.526Z",
+    "__v": 0
+  },
+  {
+    "_id": "6446e775076060685bdf84fa",
+    "name": "Caneta5",
+    "quantity": 10,
+    "price": 7.99,
+    "createdAt": "2023-04-24T20:32:53.526Z",
+    "updatedAt": "2023-04-24T20:32:53.526Z",
+    "__v": 0
+  },
+  {
+    "_id": "6446e775076060685bdf84fb",
+    "name": "Caneta6",
+    "quantity": 10,
+    "price": 7.99,
+    "createdAt": "2023-04-24T20:32:53.526Z",
+    "updatedAt": "2023-04-24T20:32:53.526Z",
+    "__v": 0
+  }
+]
